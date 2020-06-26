@@ -13,7 +13,7 @@ Wireframe including component outlines:
 ![Mobile Wireframes](https://imgur.com/EAiGeG7)
 React architecture
 
-![React Architecture](https://i.imgur.com/5mG7chE.png)
+![React Architecture](https://i.imgur.com/EAiGeG7.png)
 
 ### MVP/PostMVP
 
