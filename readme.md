@@ -10,7 +10,7 @@ In lieu of sample data I have attached a screenshot of the creation of an applic
 -------
 Wireframe including component outlines:
 ![Wireframe including component outlines](https://cdn-media-1.freecodecamp.org/images/1*SUeSr13iO7yJfIf4ipaeFg.png)
-
+![Mobile Wireframes](https://imgur.com/EAiGeG7)
 React architecture
 
 ![React Architecture](https://i.imgur.com/5mG7chE.png)
