@@ -1,6 +1,8 @@
 Project 2: React
 Overview
 
+[Link to my Chatroom Application](https://nickdipreta.github.io/Chatroom-App/)
+
 Project Description: I would like to build a chatroom application using React and an API called Scaledrone(https://www.scaledrone.com/docs/api-clients/javascript). This chatroom will update in real time and can have up to 10 concurrent users. Images, text, giphs can all be sent through chat.
 
 In lieu of sample data I have attached a screenshot of the creation of an application channel for messaging that I initialized in Scaledrone. 
